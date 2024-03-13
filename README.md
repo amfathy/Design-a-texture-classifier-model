@@ -29,4 +29,4 @@ This project aims to design a texture classifier model using the Flickr Material
 - Required libraries: NumPy, OpenCV, scikit-image, scikit-learn
 
 ## Contributors
-- [Ahmed Mohamed Fathy](https://github.com/amfathy)
+- [Ahmed Eltaify](https://github.com/amfathy)
